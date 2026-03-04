@@ -2,9 +2,13 @@
 
 /*
     Plugin Name: Smart Language Switcher
-    Description: Dynamic language selector.
-    Version: 1.0
-    Author: Davis
+    Plugin URI: https://unitedafrica.digital/q2a-language-selector
+    Plugin Description: Dynamic native language switcher for Question2Answer. Automatically detects installed language packs with smart fallback detection, alphabetical sorting, caching, and per-user language memory.
+    Plugin Version: 1.0.0
+    Plugin Date: 2026-03-03
+    Plugin Author: Davis
+    Plugin Author URI: https://unitedafrica.digital/davis
+    Plugin License: GPLv2
 */
 
 if (!defined('QA_VERSION')) {
